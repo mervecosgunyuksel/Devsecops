@@ -1,2 +1,3 @@
 hello from merve
 düzenleme yapma zamanı
+for remove pull
