@@ -20,3 +20,4 @@ jobs:
 
     - name: Container çalıştır
       run: docker run hello-devsecops
+
